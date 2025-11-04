@@ -55,6 +55,8 @@ I enjoy building small, focused projects that challenge my logic and creativity 
 
 ---
 
-> “Every project, no matter how small, is a chance to improve your clarity, discipline, and creativity.”
+> “Talk is cheap. Show me the code.”  
+> — *Linus Torvalds*
+
 
 ---
