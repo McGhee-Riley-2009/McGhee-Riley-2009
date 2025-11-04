@@ -27,12 +27,22 @@ I enjoy building small, focused projects that challenge my logic and creativity 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=McGhee-Riley-2009&show_icons=true&theme=default&hide_border=true" 
-    alt="Riley's GitHub stats" 
-    width="55%" 
-  />
+<p align="left">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=McGhee-Riley-2009&show_icons=true&theme=github_dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=McGhee-Riley-2009&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=McGhee-Riley-2009&show_icons=true&theme=default&hide_border=true" 
+      alt="Riley's GitHub stats" 
+      width="55%" 
+    />
+  </picture>
 </p>
 
 ---
@@ -48,15 +58,11 @@ I enjoy building small, focused projects that challenge my logic and creativity 
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/riley-mcghee](https://www.linkedin.com/in/riley-mcghee-8498b62b8/) *(create this soon if not already)*  
-- **GitHub:** [github.com/McGhee-Riley-2009](https://github.com/McGhee-Riley-2009)
-- **Youtube:** [https://www.youtube.com/@Dream-Wave-Lofi](https://www.youtube.com/@Dream-Wave-Lofi)
-- **Email:** McHughr009@gmail.com 
+- **LinkedIn:** [linkedin.com/in/rileymcghee](https://linkedin.com/in/rileymcghee) *(create this soon if not already)*  
+- **GitHub:** [github.com/McGhee-Riley-2009](https://github.com/McGhee-Riley-2009)  
+- **YouTube:** *(optional, add your lofi channel later)*  
 
 ---
 
 > “Talk is cheap. Show me the code.”  
 > — *Linus Torvalds*
-
-
----
