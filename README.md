@@ -60,7 +60,7 @@ I enjoy building small, focused projects that challenge my logic and creativity 
 
 - **LinkedIn:** [linkedin.com/in/rileymcghee](https://linkedin.com/in/rileymcghee) *(create this soon if not already)*  
 - **GitHub:** [github.com/McGhee-Riley-2009](https://github.com/McGhee-Riley-2009)  
-- **YouTube:** *(optional, add your lofi channel later)*  
+- **Email:** *McHughR009@gmail.com*  
 
 ---
 
